@@ -8,7 +8,7 @@ initialize the connection:
     package main
 
     import (
-        "log"
+        log "github.com/sourcegraph-ce/logrus"
         "github.com/paloaltonetworks/prisma-cloud-go"
         "github.com/paloaltonetworks/prisma-cloud-go/compliance/standard"
     )

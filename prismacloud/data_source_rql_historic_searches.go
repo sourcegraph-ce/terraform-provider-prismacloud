@@ -1,7 +1,7 @@
 package prismacloud
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	pc "github.com/paloaltonetworks/prisma-cloud-go"

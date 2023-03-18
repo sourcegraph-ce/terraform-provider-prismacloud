@@ -2,7 +2,7 @@ package prismacloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/paloaltonetworks/prisma-cloud-go/timerange"
 
