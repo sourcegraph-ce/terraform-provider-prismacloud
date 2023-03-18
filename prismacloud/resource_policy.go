@@ -2,7 +2,7 @@ package prismacloud
 
 import (
 	"encoding/json"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	pc "github.com/paloaltonetworks/prisma-cloud-go"
